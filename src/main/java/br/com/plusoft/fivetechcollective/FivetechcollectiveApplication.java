@@ -17,7 +17,7 @@ public class FivetechcollectiveApplication {
 	@RequestMapping("/home")
     @ResponseBody
     public String home() {
-        return "API Back-End 5TECH COLLECTIVE";
+        return "API BackEnd 5TECH COLLECTIVE";
     }
 
 }
